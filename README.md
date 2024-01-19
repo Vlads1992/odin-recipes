@@ -1,0 +1,1 @@
+In this project I learned to work with HTML boilerplates, add texts and images and include relative links
