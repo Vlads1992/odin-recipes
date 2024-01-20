@@ -1,13 +1,38 @@
-body {
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
+
+.home-wrapper {
     background-color: lightpink;
+    background-image: url('./images/s-o-c-i-a-l-c-u-t-hwy3W3qFjgM-unsplash.jpg');
+    background-size: cover;
 }
 
 h1 {
     font-size: 52px;
+    padding-left: 8px;
+
 }
 
-h1, h2, h3, h4 {
+h1, h2, h3, h4, a {
         color: darkred;
         font-family: 'Courier New', Courier, monospace;
+}
+
+.home {
+    border: 2px darkred solid;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: rgba(255, 255, 255, 0.842);
+    width: 400px;
+    margin: auto;
+}
+
+a {
+    font-size: 36px;
+}
+
+li, p {
+    font-size: 19px;
+    font-family: 'Libre Baskerville', serif;
 
 }
+
